@@ -31,6 +31,10 @@ npm install
 # Start development server
 npm start
 ```
+git add .
+git commit -m "Update project 1 description"
+git push origin main
+npm run deploy
 
 Visit http://localhost:3000
 
