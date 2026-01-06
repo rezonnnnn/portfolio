@@ -16,7 +16,7 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2022 - present"
+            date="Sep 2025 - Dec 2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
@@ -47,12 +47,12 @@ function Timeline() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="Sep 2025 - Dec 2025"
+            date="Jan 2023 - Aug 2023"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">PETRONAS HQ</h4>
+            <h4 className="vertical-timeline-element-subtitle">PETRONAS</h4>
             <p>
               Developed and implemented sustainability initiatives aligned with PETRONAS' environmental goals, ensuring compliance through technical assessments and documentation. Collaborated on innovative solutions and coordinated workshops and engagement programs to promote sustainability and foster stakeholder participation.
             </p>
